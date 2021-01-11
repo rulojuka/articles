@@ -103,7 +103,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 ### Referência geral:
 
 > Tanenbaum, Andrew S., "Structured computer organization", Chapter 1 - Introduction
-http://www.youtube.com/watch?v=GcDshWmhF4A
 
 ### Imagens:
 
